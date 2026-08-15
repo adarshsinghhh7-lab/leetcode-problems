@@ -10,6 +10,7 @@ solving leet code dsa problems
 | [0004-median-of-two-sorted-arrays](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ solving leet code dsa problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
