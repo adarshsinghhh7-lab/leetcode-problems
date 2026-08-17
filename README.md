@@ -11,6 +11,7 @@ solving leet code dsa problems
 | [0011-container-with-most-water](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0496-next-greater-element-i](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ solving leet code dsa problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0496-next-greater-element-i](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -88,8 +90,13 @@ solving leet code dsa problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
