@@ -90,6 +90,7 @@ solving leet code dsa problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
@@ -99,4 +100,12 @@ solving leet code dsa problems
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
