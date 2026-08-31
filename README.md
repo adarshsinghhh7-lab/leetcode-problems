@@ -33,12 +33,14 @@ solving leet code dsa problems
 | [0009-palindrome-number](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -108,4 +110,8 @@ solving leet code dsa problems
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
