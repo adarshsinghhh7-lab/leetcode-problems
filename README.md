@@ -35,6 +35,7 @@ solving leet code dsa problems
 | [0013-roman-to-integer](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -43,6 +44,7 @@ solving leet code dsa problems
 | [0021-merge-two-sorted-lists](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@ solving leet code dsa problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0010-regular-expression-matching) |
+| [0509-fibonacci-number](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
 | ------- |
@@ -118,4 +121,8 @@ solving leet code dsa problems
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0231-power-of-two) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
