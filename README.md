@@ -34,6 +34,7 @@ solving leet code dsa problems
 | [0012-integer-to-roman](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
@@ -41,6 +42,7 @@ solving leet code dsa problems
 | [0010-regular-expression-matching](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
