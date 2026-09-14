@@ -33,6 +33,7 @@ solving leet code dsa problems
 | [0009-palindrome-number](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0509-fibonacci-number) |
@@ -82,6 +83,7 @@ solving leet code dsa problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
@@ -124,5 +126,6 @@ solving leet code dsa problems
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
