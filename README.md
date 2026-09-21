@@ -11,6 +11,7 @@ solving leet code dsa problems
 | [0011-container-with-most-water](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0198-house-robber](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ solving leet code dsa problems
 | [0005-longest-palindromic-substring](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/adarshsinghhh7-lab/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
